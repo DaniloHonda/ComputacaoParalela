@@ -1,38 +1,34 @@
-# Computação Paralela 
+# Computação Paralela
 
-Este repositório contém meus exercícios e implementações relacionados à disciplina de Computação Paralela no curso de Ciência da Computação.
+Bem-vindo(a) ao meu repositório dedicado à disciplina de Computação Paralela, parte do curso de Ciência da Computação. Aqui você encontrará meus exercícios, implementações e estudos práticos relacionados ao tema.
 
 ---
 
 ## Conteúdo
 
-- Exercícios resolvidos
-- Implementações de algoritmos paralelos
-- Códigos em diferentes abordagens e tecnologias
+- **Exercícios Resolvidos**: Soluções para problemas propostos na disciplina.
+- **Algoritmos Paralelos**: Implementações de algoritmos otimizados para execução paralela.
+- **Abordagens Diversas**: Códigos explorando diferentes tecnologias e paradigmas de paralelismo.
 
 ---
 
 ## Objetivo
 
-O objetivo deste repositório é armazenar e compartilhar minhas soluções para exercícios práticos de Computação Paralela, explorando conceitos como concorrência, paralelismo e distribuição de processamento.
+Este repositório tem como propósito organizar e compartilhar meu aprendizado em Computação Paralela, abordando conceitos fundamentais como concorrência, paralelismo e distribuição de processamento, aplicados em soluções práticas.
 
 ---
 
-## Tecnologias
+## Tecnologias Utilizadas
 
-As implementações podem envolver:
+As implementações podem incluir:
 
-- C++
-- Outras ferramentas e linguagens relacionadas
-
----
-
-## Como Contribuir
-
-Este repositório é pessoal, mas se quiser discutir soluções ou sugerir melhorias, fique à vontade para abrir uma issue!
+- **C++**: Linguagem principal para desenvolvimento de alto desempenho.
+- Ferramentas e bibliotecas adicionais relacionadas ao tema (ex.: MPI, OpenMP, CUDA, conforme aplicável).
 
 ---
 
-Danilo Yui Honda - Universidade Presbiteriana Mackenzie
+## Autor
 
----
+**Danilo Yui Honda**  
+Universidade Presbiteriana Mackenzie  
+Curso de Ciência da Computação
